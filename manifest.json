@@ -1,24 +1,22 @@
 {
-  "name": "Banggo Hunter AR",
+  "name": "Banggo Hunter",
   "short_name": "Banggo",
-  "description": "Berburu bangau emas di langit!",
+  "description": "Berburu bangau emas dan jadi Hunter nomor 1!",
   "start_url": "./index.html",
   "display": "fullscreen",
-  "orientation": "landscape",
   "background_color": "#000000",
   "theme_color": "#facc15",
+  "orientation": "landscape",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "https://udankkeramat.github.io/Banggo-Hunter-Asset/banggo_hunter_logo.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     },
     {
-      "src": "icon-512.png",
+      "src": "https://udankkeramat.github.io/Banggo-Hunter-Asset/banggo_hunter_logo.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ]
 }
